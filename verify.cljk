@@ -1,5 +1,5 @@
 #!/usr/bin/env kbb
-;; verify.cljk — RelationalTime 検証ハーネス（nbb。repo 規約: 検証/テストハーネスは
+;; verify.cljs — RelationalTime 検証ハーネス（nbb。repo 規約: 検証/テストハーネスは
 ;; sh でなく kbb --backend sci .cljk で書く）。旧 verify.sh を置換。
 ;;
 ;; 手順:
